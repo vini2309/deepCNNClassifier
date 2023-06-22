@@ -15,6 +15,6 @@
 10. update the dvc.yaml
 11. run "dvc repo" for running all the stages in pipeline
 
-[img][]
+![img](https://raw.githubusercontent.com/vini2309/deepCNNClassifier/main/docs/images/Data%20Ingestion%402x%20(1).png)
 
 
