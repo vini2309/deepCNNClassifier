@@ -15,4 +15,6 @@
 10. update the dvc.yaml
 11. run "dvc repo" for running all the stages in pipeline
 
+[img][]
+
 
