@@ -1,2 +1,9 @@
 # parameters related to project for example what is batch size, how many epochs need to run
-key : val
+AUGMENTATION: True # when we have sufficient data we can define augumentation as true
+IMAGE_SIZE: [224, 224, 3] # as per VGG 16 model
+BATCH_SIZE: 16
+INCLUDE_TOP: False
+EPOCHS: 1
+CLASSES: 2
+WEIGHTS: imagenet  # it has wide valuation
+LEARNING_RATE: 0.01
