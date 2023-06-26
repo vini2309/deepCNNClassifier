@@ -163,3 +163,5 @@ cython_debug/
 .vscode/
 *.jpg
 *.zip
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at2023-06-26-04-07-45/train/events.out.tfevents.1687732672.DESKTOP-3NORG02.23648.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at2023-06-26-04-07-45/validation/events.out.tfevents.1687737898.DESKTOP-3NORG02.23648.1.v2
