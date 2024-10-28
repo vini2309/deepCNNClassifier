@@ -1,5 +1,6 @@
 # deepCNNClassifier project
 
+Developed a CNN application using the VGG 16 architecture and transfer learning to classify images as cats or dogs. 
 
 ## workflow
 
